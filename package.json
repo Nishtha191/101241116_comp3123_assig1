@@ -1,0 +1,19 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "Assignment1",
+  "main": "101241116_comp3123_assig1.js",
+  "scripts": {
+    "start": "node 101241116_comp3123_assig1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nishtha Patel",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
